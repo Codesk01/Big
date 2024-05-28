@@ -1,0 +1,43 @@
+
+body, h1, h2, h3, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+
+fieldset {
+    border: none;
+}
+
+legend {
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+
+p {
+    margin-bottom: 20px;
+.section {
+    padding: 20px;
+    background-color: #f2f2f2;
+}
+
